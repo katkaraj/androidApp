@@ -5,6 +5,6 @@ o vlajkách různých států pomocí otázek s možností výběru.
 
 ## Návrh aplikace
 
-!["img1"](imgs/img1.png) !["img2"](imgs/img2.png) !["img3"](imgs/img3.png)
+!["img3"](imgs/img3.png) !["img1"](imgs/img1.png) !["img2"](imgs/img2.png)
 
 
